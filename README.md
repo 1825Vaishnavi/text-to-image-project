@@ -4,8 +4,8 @@ IE7615 Generative AI course project. We generate images from natural language ca
 
 ## Team
 
-| Member | Role |
-| --- | --- |
+| Member |
+| --- |
 | Vaishnavi Gajarla 
 | Pranathi Bombay  
 | Varaalakshime Vigneswara Pandiarajan  
