@@ -1,0 +1,256 @@
+experiment,prompt_id,prompt,scheduler,steps,guidance,seed,seconds,clip_score,image_file
+baseline,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,42,4.53,32.77,p0_PNDM_s30_cfg7.5_seed42.png
+baseline,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,7,4.58,30.84,p0_PNDM_s30_cfg7.5_seed7.png
+baseline,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,123,4.61,32.27,p0_PNDM_s30_cfg7.5_seed123.png
+baseline,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,42,4.66,30.4,p1_PNDM_s30_cfg7.5_seed42.png
+baseline,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,7,4.7,32.36,p1_PNDM_s30_cfg7.5_seed7.png
+baseline,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,123,4.71,34.62,p1_PNDM_s30_cfg7.5_seed123.png
+baseline,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,42,4.78,31.95,p2_PNDM_s30_cfg7.5_seed42.png
+baseline,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,7,4.85,29.62,p2_PNDM_s30_cfg7.5_seed7.png
+baseline,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,123,4.9,32.38,p2_PNDM_s30_cfg7.5_seed123.png
+baseline,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,42,4.97,32.56,p3_PNDM_s30_cfg7.5_seed42.png
+baseline,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,7,5.04,31.97,p3_PNDM_s30_cfg7.5_seed7.png
+baseline,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,123,5.12,34.45,p3_PNDM_s30_cfg7.5_seed123.png
+baseline,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,42,5.16,33.4,p4_PNDM_s30_cfg7.5_seed42.png
+baseline,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,7,5.23,35.6,p4_PNDM_s30_cfg7.5_seed7.png
+baseline,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,123,5.23,29.33,p4_PNDM_s30_cfg7.5_seed123.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,1.0,42,3.36,23.89,p0_PNDM_s30_cfg1.0_seed42.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,1.0,7,3.24,26.09,p0_PNDM_s30_cfg1.0_seed7.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,1.0,123,3.26,27.53,p0_PNDM_s30_cfg1.0_seed123.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,1.0,42,3.26,21.58,p1_PNDM_s30_cfg1.0_seed42.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,1.0,7,3.3,25.24,p1_PNDM_s30_cfg1.0_seed7.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,1.0,123,3.31,25.79,p1_PNDM_s30_cfg1.0_seed123.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,1.0,42,3.33,24.3,p2_PNDM_s30_cfg1.0_seed42.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,1.0,7,3.35,31.19,p2_PNDM_s30_cfg1.0_seed7.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,1.0,123,3.35,20.84,p2_PNDM_s30_cfg1.0_seed123.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,1.0,42,3.37,28.25,p3_PNDM_s30_cfg1.0_seed42.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,1.0,7,3.44,21.42,p3_PNDM_s30_cfg1.0_seed7.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,1.0,123,3.49,27.97,p3_PNDM_s30_cfg1.0_seed123.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,1.0,42,3.55,30.07,p4_PNDM_s30_cfg1.0_seed42.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,1.0,7,3.62,30.47,p4_PNDM_s30_cfg1.0_seed7.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,1.0,123,3.68,30.07,p4_PNDM_s30_cfg1.0_seed123.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,3.0,42,6.14,32.98,p0_PNDM_s30_cfg3.0_seed42.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,3.0,7,6.09,31.81,p0_PNDM_s30_cfg3.0_seed7.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,3.0,123,6.04,29.57,p0_PNDM_s30_cfg3.0_seed123.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,3.0,42,6.0,27.0,p1_PNDM_s30_cfg3.0_seed42.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,3.0,7,5.93,32.46,p1_PNDM_s30_cfg3.0_seed7.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,3.0,123,5.88,30.16,p1_PNDM_s30_cfg3.0_seed123.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,3.0,42,5.88,30.4,p2_PNDM_s30_cfg3.0_seed42.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,3.0,7,5.87,28.14,p2_PNDM_s30_cfg3.0_seed7.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,3.0,123,5.85,25.59,p2_PNDM_s30_cfg3.0_seed123.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,3.0,42,5.87,28.77,p3_PNDM_s30_cfg3.0_seed42.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,3.0,7,5.86,31.09,p3_PNDM_s30_cfg3.0_seed7.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,3.0,123,5.87,29.4,p3_PNDM_s30_cfg3.0_seed123.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,3.0,42,5.88,33.91,p4_PNDM_s30_cfg3.0_seed42.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,3.0,7,5.89,33.52,p4_PNDM_s30_cfg3.0_seed7.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,3.0,123,5.89,28.48,p4_PNDM_s30_cfg3.0_seed123.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,5.0,42,5.88,33.8,p0_PNDM_s30_cfg5.0_seed42.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,5.0,7,5.93,31.74,p0_PNDM_s30_cfg5.0_seed7.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,5.0,123,5.91,31.64,p0_PNDM_s30_cfg5.0_seed123.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,5.0,42,5.87,31.92,p1_PNDM_s30_cfg5.0_seed42.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,5.0,7,5.88,32.72,p1_PNDM_s30_cfg5.0_seed7.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,5.0,123,5.87,30.9,p1_PNDM_s30_cfg5.0_seed123.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,5.0,42,5.88,33.0,p2_PNDM_s30_cfg5.0_seed42.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,5.0,7,5.87,28.46,p2_PNDM_s30_cfg5.0_seed7.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,5.0,123,5.87,31.92,p2_PNDM_s30_cfg5.0_seed123.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,5.0,42,5.86,33.11,p3_PNDM_s30_cfg5.0_seed42.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,5.0,7,5.87,30.68,p3_PNDM_s30_cfg5.0_seed7.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,5.0,123,5.88,34.62,p3_PNDM_s30_cfg5.0_seed123.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,5.0,42,5.87,32.18,p4_PNDM_s30_cfg5.0_seed42.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,5.0,7,5.88,33.71,p4_PNDM_s30_cfg5.0_seed7.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,5.0,123,5.87,30.32,p4_PNDM_s30_cfg5.0_seed123.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,42,4.53,32.77,p0_PNDM_s30_cfg7.5_seed42.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,7,4.58,30.84,p0_PNDM_s30_cfg7.5_seed7.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,123,4.61,32.27,p0_PNDM_s30_cfg7.5_seed123.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,42,4.66,30.4,p1_PNDM_s30_cfg7.5_seed42.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,7,4.7,32.36,p1_PNDM_s30_cfg7.5_seed7.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,123,4.71,34.62,p1_PNDM_s30_cfg7.5_seed123.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,42,4.78,31.95,p2_PNDM_s30_cfg7.5_seed42.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,7,4.85,29.62,p2_PNDM_s30_cfg7.5_seed7.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,123,4.9,32.38,p2_PNDM_s30_cfg7.5_seed123.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,42,4.97,32.56,p3_PNDM_s30_cfg7.5_seed42.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,7,5.04,31.97,p3_PNDM_s30_cfg7.5_seed7.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,123,5.12,34.45,p3_PNDM_s30_cfg7.5_seed123.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,42,5.16,33.4,p4_PNDM_s30_cfg7.5_seed42.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,7,5.23,35.6,p4_PNDM_s30_cfg7.5_seed7.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,123,5.23,29.33,p4_PNDM_s30_cfg7.5_seed123.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,10.0,42,5.87,31.64,p0_PNDM_s30_cfg10.0_seed42.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,10.0,7,5.86,32.57,p0_PNDM_s30_cfg10.0_seed7.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,10.0,123,5.88,32.87,p0_PNDM_s30_cfg10.0_seed123.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,10.0,42,5.87,36.86,p1_PNDM_s30_cfg10.0_seed42.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,10.0,7,5.88,32.57,p1_PNDM_s30_cfg10.0_seed7.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,10.0,123,5.85,31.84,p1_PNDM_s30_cfg10.0_seed123.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,10.0,42,5.86,32.7,p2_PNDM_s30_cfg10.0_seed42.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,10.0,7,5.87,32.68,p2_PNDM_s30_cfg10.0_seed7.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,10.0,123,5.88,33.67,p2_PNDM_s30_cfg10.0_seed123.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,10.0,42,5.87,33.95,p3_PNDM_s30_cfg10.0_seed42.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,10.0,7,5.88,32.94,p3_PNDM_s30_cfg10.0_seed7.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,10.0,123,5.87,36.39,p3_PNDM_s30_cfg10.0_seed123.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,10.0,42,5.88,34.41,p4_PNDM_s30_cfg10.0_seed42.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,10.0,7,5.88,33.31,p4_PNDM_s30_cfg10.0_seed7.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,10.0,123,5.87,28.26,p4_PNDM_s30_cfg10.0_seed123.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,15.0,42,5.87,32.22,p0_PNDM_s30_cfg15.0_seed42.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,15.0,7,5.9,30.43,p0_PNDM_s30_cfg15.0_seed7.png
+cfg,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,15.0,123,5.9,31.63,p0_PNDM_s30_cfg15.0_seed123.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,15.0,42,5.9,36.25,p1_PNDM_s30_cfg15.0_seed42.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,15.0,7,5.89,30.85,p1_PNDM_s30_cfg15.0_seed7.png
+cfg,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,15.0,123,5.9,31.86,p1_PNDM_s30_cfg15.0_seed123.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,15.0,42,5.89,33.48,p2_PNDM_s30_cfg15.0_seed42.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,15.0,7,5.89,33.64,p2_PNDM_s30_cfg15.0_seed7.png
+cfg,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,15.0,123,5.87,29.85,p2_PNDM_s30_cfg15.0_seed123.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,15.0,42,5.87,34.84,p3_PNDM_s30_cfg15.0_seed42.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,15.0,7,5.88,30.2,p3_PNDM_s30_cfg15.0_seed7.png
+cfg,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,15.0,123,5.89,35.97,p3_PNDM_s30_cfg15.0_seed123.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,15.0,42,5.88,31.55,p4_PNDM_s30_cfg15.0_seed42.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,15.0,7,5.89,34.65,p4_PNDM_s30_cfg15.0_seed7.png
+cfg,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,15.0,123,5.87,30.61,p4_PNDM_s30_cfg15.0_seed123.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,42,4.53,32.77,p0_PNDM_s30_cfg7.5_seed42.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,7,4.58,30.84,p0_PNDM_s30_cfg7.5_seed7.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",PNDM,30,7.5,123,4.61,32.27,p0_PNDM_s30_cfg7.5_seed123.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,42,4.66,30.4,p1_PNDM_s30_cfg7.5_seed42.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,7,4.7,32.36,p1_PNDM_s30_cfg7.5_seed7.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,PNDM,30,7.5,123,4.71,34.62,p1_PNDM_s30_cfg7.5_seed123.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,42,4.78,31.95,p2_PNDM_s30_cfg7.5_seed42.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,7,4.85,29.62,p2_PNDM_s30_cfg7.5_seed7.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,PNDM,30,7.5,123,4.9,32.38,p2_PNDM_s30_cfg7.5_seed123.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,42,4.97,32.56,p3_PNDM_s30_cfg7.5_seed42.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,7,5.04,31.97,p3_PNDM_s30_cfg7.5_seed7.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,PNDM,30,7.5,123,5.12,34.45,p3_PNDM_s30_cfg7.5_seed123.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,42,5.16,33.4,p4_PNDM_s30_cfg7.5_seed42.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,7,5.23,35.6,p4_PNDM_s30_cfg7.5_seed7.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,PNDM,30,7.5,123,5.23,29.33,p4_PNDM_s30_cfg7.5_seed123.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DDIM,30,7.5,42,5.7,31.98,p0_DDIM_s30_cfg7.5_seed42.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DDIM,30,7.5,7,5.69,31.95,p0_DDIM_s30_cfg7.5_seed7.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DDIM,30,7.5,123,5.69,32.66,p0_DDIM_s30_cfg7.5_seed123.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DDIM,30,7.5,42,5.69,37.15,p1_DDIM_s30_cfg7.5_seed42.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DDIM,30,7.5,7,5.72,32.17,p1_DDIM_s30_cfg7.5_seed7.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DDIM,30,7.5,123,5.74,33.63,p1_DDIM_s30_cfg7.5_seed123.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DDIM,30,7.5,42,5.77,31.35,p2_DDIM_s30_cfg7.5_seed42.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DDIM,30,7.5,7,5.76,28.55,p2_DDIM_s30_cfg7.5_seed7.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DDIM,30,7.5,123,5.69,32.11,p2_DDIM_s30_cfg7.5_seed123.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DDIM,30,7.5,42,5.69,33.99,p3_DDIM_s30_cfg7.5_seed42.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DDIM,30,7.5,7,5.69,34.75,p3_DDIM_s30_cfg7.5_seed7.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DDIM,30,7.5,123,5.69,33.81,p3_DDIM_s30_cfg7.5_seed123.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DDIM,30,7.5,42,5.69,32.09,p4_DDIM_s30_cfg7.5_seed42.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DDIM,30,7.5,7,5.69,34.89,p4_DDIM_s30_cfg7.5_seed7.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DDIM,30,7.5,123,5.68,28.11,p4_DDIM_s30_cfg7.5_seed123.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",Euler,30,7.5,42,5.71,32.14,p0_Euler_s30_cfg7.5_seed42.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",Euler,30,7.5,7,5.68,31.54,p0_Euler_s30_cfg7.5_seed7.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",Euler,30,7.5,123,5.68,32.52,p0_Euler_s30_cfg7.5_seed123.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,Euler,30,7.5,42,5.69,35.67,p1_Euler_s30_cfg7.5_seed42.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,Euler,30,7.5,7,5.68,31.53,p1_Euler_s30_cfg7.5_seed7.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,Euler,30,7.5,123,5.68,32.6,p1_Euler_s30_cfg7.5_seed123.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,Euler,30,7.5,42,5.71,32.63,p2_Euler_s30_cfg7.5_seed42.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,Euler,30,7.5,7,5.75,29.36,p2_Euler_s30_cfg7.5_seed7.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,Euler,30,7.5,123,5.75,32.42,p2_Euler_s30_cfg7.5_seed123.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,Euler,30,7.5,42,5.75,33.34,p3_Euler_s30_cfg7.5_seed42.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,Euler,30,7.5,7,5.74,34.89,p3_Euler_s30_cfg7.5_seed7.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,Euler,30,7.5,123,5.73,38.02,p3_Euler_s30_cfg7.5_seed123.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,Euler,30,7.5,42,5.71,29.85,p4_Euler_s30_cfg7.5_seed42.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,Euler,30,7.5,7,5.69,34.44,p4_Euler_s30_cfg7.5_seed7.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,Euler,30,7.5,123,5.69,29.31,p4_Euler_s30_cfg7.5_seed123.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",Euler Karras,30,7.5,42,5.69,31.54,p0_Euler_Karras_s30_cfg7.5_seed42.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",Euler Karras,30,7.5,7,5.69,31.31,p0_Euler_Karras_s30_cfg7.5_seed7.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",Euler Karras,30,7.5,123,5.68,32.01,p0_Euler_Karras_s30_cfg7.5_seed123.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,Euler Karras,30,7.5,42,5.7,35.87,p1_Euler_Karras_s30_cfg7.5_seed42.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,Euler Karras,30,7.5,7,5.7,31.45,p1_Euler_Karras_s30_cfg7.5_seed7.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,Euler Karras,30,7.5,123,5.69,32.59,p1_Euler_Karras_s30_cfg7.5_seed123.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,Euler Karras,30,7.5,42,5.69,32.64,p2_Euler_Karras_s30_cfg7.5_seed42.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,Euler Karras,30,7.5,7,5.69,29.22,p2_Euler_Karras_s30_cfg7.5_seed7.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,Euler Karras,30,7.5,123,5.69,32.56,p2_Euler_Karras_s30_cfg7.5_seed123.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,Euler Karras,30,7.5,42,5.68,33.9,p3_Euler_Karras_s30_cfg7.5_seed42.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,Euler Karras,30,7.5,7,5.69,34.77,p3_Euler_Karras_s30_cfg7.5_seed7.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,Euler Karras,30,7.5,123,5.69,38.39,p3_Euler_Karras_s30_cfg7.5_seed123.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,Euler Karras,30,7.5,42,5.69,31.09,p4_Euler_Karras_s30_cfg7.5_seed42.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,Euler Karras,30,7.5,7,5.71,34.53,p4_Euler_Karras_s30_cfg7.5_seed7.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,Euler Karras,30,7.5,123,5.71,28.4,p4_Euler_Karras_s30_cfg7.5_seed123.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,30,7.5,42,5.71,33.41,p0_DPMpp_s30_cfg7.5_seed42.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,30,7.5,7,5.72,31.98,p0_DPMpp_s30_cfg7.5_seed7.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,30,7.5,123,5.71,33.71,p0_DPMpp_s30_cfg7.5_seed123.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,30,7.5,42,5.73,36.59,p1_DPMpp_s30_cfg7.5_seed42.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,30,7.5,7,5.74,31.28,p1_DPMpp_s30_cfg7.5_seed7.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,30,7.5,123,5.74,32.35,p1_DPMpp_s30_cfg7.5_seed123.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,30,7.5,42,5.71,32.55,p2_DPMpp_s30_cfg7.5_seed42.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,30,7.5,7,5.72,31.07,p2_DPMpp_s30_cfg7.5_seed7.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,30,7.5,123,5.73,32.42,p2_DPMpp_s30_cfg7.5_seed123.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,30,7.5,42,5.73,34.69,p3_DPMpp_s30_cfg7.5_seed42.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,30,7.5,7,5.72,35.3,p3_DPMpp_s30_cfg7.5_seed7.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,30,7.5,123,5.7,39.25,p3_DPMpp_s30_cfg7.5_seed123.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,30,7.5,42,5.7,32.47,p4_DPMpp_s30_cfg7.5_seed42.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,30,7.5,7,5.72,34.06,p4_DPMpp_s30_cfg7.5_seed7.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,30,7.5,123,5.7,28.4,p4_DPMpp_s30_cfg7.5_seed123.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++ Karras,30,7.5,42,5.7,32.6,p0_DPMpp_Karras_s30_cfg7.5_seed42.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++ Karras,30,7.5,7,5.7,31.54,p0_DPMpp_Karras_s30_cfg7.5_seed7.png
+scheduler,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++ Karras,30,7.5,123,5.69,34.34,p0_DPMpp_Karras_s30_cfg7.5_seed123.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++ Karras,30,7.5,42,5.7,35.9,p1_DPMpp_Karras_s30_cfg7.5_seed42.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++ Karras,30,7.5,7,5.7,31.02,p1_DPMpp_Karras_s30_cfg7.5_seed7.png
+scheduler,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++ Karras,30,7.5,123,5.71,31.97,p1_DPMpp_Karras_s30_cfg7.5_seed123.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++ Karras,30,7.5,42,5.72,33.21,p2_DPMpp_Karras_s30_cfg7.5_seed42.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++ Karras,30,7.5,7,5.7,33.25,p2_DPMpp_Karras_s30_cfg7.5_seed7.png
+scheduler,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++ Karras,30,7.5,123,5.7,32.27,p2_DPMpp_Karras_s30_cfg7.5_seed123.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++ Karras,30,7.5,42,5.7,33.98,p3_DPMpp_Karras_s30_cfg7.5_seed42.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++ Karras,30,7.5,7,5.7,34.79,p3_DPMpp_Karras_s30_cfg7.5_seed7.png
+scheduler,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++ Karras,30,7.5,123,5.69,38.52,p3_DPMpp_Karras_s30_cfg7.5_seed123.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++ Karras,30,7.5,42,5.7,31.71,p4_DPMpp_Karras_s30_cfg7.5_seed42.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++ Karras,30,7.5,7,5.7,33.72,p4_DPMpp_Karras_s30_cfg7.5_seed7.png
+scheduler,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++ Karras,30,7.5,123,5.68,29.09,p4_DPMpp_Karras_s30_cfg7.5_seed123.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,10,7.5,42,2.07,33.7,p0_DPMpp_s10_cfg7.5_seed42.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,10,7.5,7,2.03,30.88,p0_DPMpp_s10_cfg7.5_seed7.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,10,7.5,123,2.05,31.8,p0_DPMpp_s10_cfg7.5_seed123.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,10,7.5,42,2.04,32.16,p1_DPMpp_s10_cfg7.5_seed42.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,10,7.5,7,2.04,32.25,p1_DPMpp_s10_cfg7.5_seed7.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,10,7.5,123,2.05,32.64,p1_DPMpp_s10_cfg7.5_seed123.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,10,7.5,42,2.05,33.5,p2_DPMpp_s10_cfg7.5_seed42.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,10,7.5,7,2.06,28.98,p2_DPMpp_s10_cfg7.5_seed7.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,10,7.5,123,2.07,30.87,p2_DPMpp_s10_cfg7.5_seed123.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,10,7.5,42,2.07,35.79,p3_DPMpp_s10_cfg7.5_seed42.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,10,7.5,7,2.09,36.62,p3_DPMpp_s10_cfg7.5_seed7.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,10,7.5,123,2.09,38.83,p3_DPMpp_s10_cfg7.5_seed123.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,10,7.5,42,2.08,31.97,p4_DPMpp_s10_cfg7.5_seed42.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,10,7.5,7,2.1,34.55,p4_DPMpp_s10_cfg7.5_seed7.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,10,7.5,123,2.09,30.83,p4_DPMpp_s10_cfg7.5_seed123.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,20,7.5,42,3.93,32.08,p0_DPMpp_s20_cfg7.5_seed42.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,20,7.5,7,3.95,33.14,p0_DPMpp_s20_cfg7.5_seed7.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,20,7.5,123,3.91,33.72,p0_DPMpp_s20_cfg7.5_seed123.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,20,7.5,42,3.9,36.0,p1_DPMpp_s20_cfg7.5_seed42.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,20,7.5,7,3.88,32.15,p1_DPMpp_s20_cfg7.5_seed7.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,20,7.5,123,3.88,32.73,p1_DPMpp_s20_cfg7.5_seed123.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,20,7.5,42,3.87,32.47,p2_DPMpp_s20_cfg7.5_seed42.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,20,7.5,7,3.86,30.96,p2_DPMpp_s20_cfg7.5_seed7.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,20,7.5,123,3.88,33.44,p2_DPMpp_s20_cfg7.5_seed123.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,20,7.5,42,3.86,35.42,p3_DPMpp_s20_cfg7.5_seed42.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,20,7.5,7,3.86,36.3,p3_DPMpp_s20_cfg7.5_seed7.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,20,7.5,123,3.86,38.99,p3_DPMpp_s20_cfg7.5_seed123.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,20,7.5,42,3.87,32.06,p4_DPMpp_s20_cfg7.5_seed42.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,20,7.5,7,3.87,31.69,p4_DPMpp_s20_cfg7.5_seed7.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,20,7.5,123,3.87,29.29,p4_DPMpp_s20_cfg7.5_seed123.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,30,7.5,42,5.71,33.41,p0_DPMpp_s30_cfg7.5_seed42.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,30,7.5,7,5.72,31.98,p0_DPMpp_s30_cfg7.5_seed7.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,30,7.5,123,5.71,33.71,p0_DPMpp_s30_cfg7.5_seed123.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,30,7.5,42,5.73,36.59,p1_DPMpp_s30_cfg7.5_seed42.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,30,7.5,7,5.74,31.28,p1_DPMpp_s30_cfg7.5_seed7.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,30,7.5,123,5.74,32.35,p1_DPMpp_s30_cfg7.5_seed123.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,30,7.5,42,5.71,32.55,p2_DPMpp_s30_cfg7.5_seed42.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,30,7.5,7,5.72,31.07,p2_DPMpp_s30_cfg7.5_seed7.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,30,7.5,123,5.73,32.42,p2_DPMpp_s30_cfg7.5_seed123.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,30,7.5,42,5.73,34.69,p3_DPMpp_s30_cfg7.5_seed42.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,30,7.5,7,5.72,35.3,p3_DPMpp_s30_cfg7.5_seed7.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,30,7.5,123,5.7,39.25,p3_DPMpp_s30_cfg7.5_seed123.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,30,7.5,42,5.7,32.47,p4_DPMpp_s30_cfg7.5_seed42.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,30,7.5,7,5.72,34.06,p4_DPMpp_s30_cfg7.5_seed7.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,30,7.5,123,5.7,28.4,p4_DPMpp_s30_cfg7.5_seed123.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,50,7.5,42,9.35,33.53,p0_DPMpp_s50_cfg7.5_seed42.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,50,7.5,7,9.35,31.83,p0_DPMpp_s50_cfg7.5_seed7.png
+steps,0,"a female wearing a black shirt and dark blue pants is practicing gymnastics on a beam , performing a handstnad split that exposes her bellybutton .",DPM++,50,7.5,123,9.34,32.87,p0_DPMpp_s50_cfg7.5_seed123.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,50,7.5,42,9.34,34.52,p1_DPMpp_s50_cfg7.5_seed42.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,50,7.5,7,9.4,31.16,p1_DPMpp_s50_cfg7.5_seed7.png
+steps,1,a man in a military-type uniform is standing in the street listening to another man who has a piece of paper in his hands .,DPM++,50,7.5,123,9.39,32.3,p1_DPMpp_s50_cfg7.5_seed123.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,50,7.5,42,9.37,34.0,p2_DPMpp_s50_cfg7.5_seed42.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,50,7.5,7,9.38,31.62,p2_DPMpp_s50_cfg7.5_seed7.png
+steps,2,a man wearing a reflective vest sits on the sidewalk and holds up pamphlets with bicycles on the cover .,DPM++,50,7.5,123,9.34,32.1,p2_DPMpp_s50_cfg7.5_seed123.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,50,7.5,42,9.32,35.63,p3_DPMpp_s50_cfg7.5_seed42.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,50,7.5,7,9.32,34.53,p3_DPMpp_s50_cfg7.5_seed7.png
+steps,3,a man in a black shirt shares something with a group of girls sitting on a bench .,DPM++,50,7.5,123,9.33,36.51,p3_DPMpp_s50_cfg7.5_seed123.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,50,7.5,42,9.31,31.48,p4_DPMpp_s50_cfg7.5_seed42.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,50,7.5,7,9.33,33.56,p4_DPMpp_s50_cfg7.5_seed7.png
+steps,4,a man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence .,DPM++,50,7.5,123,9.33,28.47,p4_DPMpp_s50_cfg7.5_seed123.png
